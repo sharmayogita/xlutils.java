@@ -1,0 +1,10 @@
+<suite name="ion Customer">
+
+<test name="ion Digital App">
+<parameter name="browser" value="chrome"></parameter>
+<classes>
+
+<class name="com.ion.testcases.Testcase_createConnection_TC001"></class>
+
+</classes></test>
+</suite>
